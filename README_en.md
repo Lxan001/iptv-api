@@ -73,39 +73,7 @@ other features, under development...
 - ✅ Supports various execution methods: workflows, command line, GUI software, Docker(amd64/arm64/arm v7)
 - ✨ For more features, see [Config parameter](#Config)
 
-## Latest results
 
-- Interface source:
-
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-```
-
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-```
-
-or
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-```
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
-```
-
-- Data source:
-
-```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
-```
-
-or
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
-```
 
 ## Config
 
