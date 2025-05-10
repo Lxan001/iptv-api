@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-10 18:24:02,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+2025-05-11 06:22:04,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
@@ -756,8 +756,6 @@ CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746393735&key=9d6ca0a9c59b1876be2ef4320b7283d8
 
 ☘️内蒙古频道,#genre#
-
-☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
